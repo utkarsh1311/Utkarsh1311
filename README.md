@@ -1,1 +1,1 @@
-![coder](img/gify.gif)
+<img src="img/gify.gif" width="200px">
