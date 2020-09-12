@@ -1,1 +1,1 @@
-<img src="/Code.png" alt="code">
+<img src="/Code.png?raw=true" alt="code">
