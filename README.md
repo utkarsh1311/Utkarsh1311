@@ -1,1 +1,1 @@
-<img src="code.png" alt="code">
+<img src="/img/gify.gif" alt="code">
