@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh1311&theme=algolia&show_icons=true&locale=en" alt="utkarsh1311" /></p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#7](https://github.com/utkarsh1311/web-dev-practice/issues/7) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+2. ❗️ Closed issue [#8](https://github.com/utkarsh1311/web-dev-practice/issues/8) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+3. 🎉 Merged PR [#14](https://github.com/utkarsh1311/web-dev-practice/pull/14) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+4. 💪 Opened PR [#14](https://github.com/utkarsh1311/web-dev-practice/pull/14) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+5. 🎉 Merged PR [#13](https://github.com/utkarsh1311/web-dev-practice/pull/13) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+<!--END_SECTION:activity-->
