@@ -25,9 +25,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/EddieHubCommunity/EventCalendar/issues/33) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. 🗣 Commented on [#7](https://github.com/utkarsh1311/web-dev-practice/issues/7) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
-3. ❗️ Closed issue [#8](https://github.com/utkarsh1311/web-dev-practice/issues/8) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
-4. 🎉 Merged PR [#14](https://github.com/utkarsh1311/web-dev-practice/pull/14) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
-5. 💪 Opened PR [#14](https://github.com/utkarsh1311/web-dev-practice/pull/14) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+1. 🗣 Commented on [#7](https://github.com/utkarsh1311/web-dev-practice/issues/7) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+2. ❗️ Opened issue [#33](https://github.com/EddieHubCommunity/EventCalendar/issues/33) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. 🗣 Commented on [#7](https://github.com/utkarsh1311/web-dev-practice/issues/7) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+4. ❗️ Closed issue [#8](https://github.com/utkarsh1311/web-dev-practice/issues/8) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
+5. 🎉 Merged PR [#14](https://github.com/utkarsh1311/web-dev-practice/pull/14) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
 <!--END_SECTION:activity-->
