@@ -25,9 +25,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/iamsamkash/food-blog/pull/4) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
-2. ❗️ Opened issue [#2](https://github.com/binarybeast01/portfolio_v1/issues/2) in [binarybeast01/portfolio_v1](https://github.com/binarybeast01/portfolio_v1)
-3. ❗️ Opened issue [#3](https://github.com/iamsamkash/food-blog/issues/3) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
-4. 🗣 Commented on [#7](https://github.com/utkarsh1311/web-dev-practice/issues/7) in [utkarsh1311/web-dev-practice](https://github.com/utkarsh1311/web-dev-practice)
-5. ❗️ Opened issue [#33](https://github.com/EddieHubCommunity/EventCalendar/issues/33) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+2. ❗️ Opened issue [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+3. 💪 Opened PR [#4](https://github.com/iamsamkash/food-blog/pull/4) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
+4. ❗️ Opened issue [#2](https://github.com/binarybeast01/portfolio_v1/issues/2) in [binarybeast01/portfolio_v1](https://github.com/binarybeast01/portfolio_v1)
+5. ❗️ Opened issue [#3](https://github.com/iamsamkash/food-blog/issues/3) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
 <!--END_SECTION:activity-->
