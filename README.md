@@ -25,9 +25,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/dokc/how-to-dok/pull/41) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
-2. 🗣 Commented on [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
-3. ❗️ Opened issue [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
-4. 💪 Opened PR [#4](https://github.com/iamsamkash/food-blog/pull/4) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
-5. ❗️ Opened issue [#2](https://github.com/binarybeast01/portfolio_v1/issues/2) in [binarybeast01/portfolio_v1](https://github.com/binarybeast01/portfolio_v1)
+1. ❗️ Opened issue [#55](https://github.com/nhcommunity/community/issues/55) in [nhcommunity/community](https://github.com/nhcommunity/community)
+2. 💪 Opened PR [#41](https://github.com/dokc/how-to-dok/pull/41) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+3. 🗣 Commented on [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+4. ❗️ Opened issue [#40](https://github.com/dokc/how-to-dok/issues/40) in [dokc/how-to-dok](https://github.com/dokc/how-to-dok)
+5. 💪 Opened PR [#4](https://github.com/iamsamkash/food-blog/pull/4) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
 <!--END_SECTION:activity-->
