@@ -25,8 +25,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-2. 💪 Opened PR [#5](https://github.com/iamsamkash/food-blog/pull/5) in [iamsamkash/food-blog](https://github.com/iamsamkash/food-blog)
+1. 💪 Opened PR [#1979](https://github.com/mindsdb/mindsdb/pull/1979) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
 3. ❗️ Opened issue [#3474](https://github.com/24pullrequests/24pullrequests/issues/3474) in [24pullrequests/24pullrequests](https://github.com/24pullrequests/24pullrequests)
 4. ❗️ Opened issue [#4](https://github.com/utkarsh1311/action-test/issues/4) in [utkarsh1311/action-test](https://github.com/utkarsh1311/action-test)
 5. ❗️ Opened issue [#3](https://github.com/utkarsh1311/action-test/issues/3) in [utkarsh1311/action-test](https://github.com/utkarsh1311/action-test)
