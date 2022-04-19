@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Maurya</h1>
 <h3 align="center">A developer, Open-source enthusiast, Student Ambassador @ AngelHack</h3>
+<img align="center" style="width:100%" src="./img/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966.gif">
 
 <p align="left"> <a href="https://twitter.com/coder_utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/coder_utkarsh?logo=twitter&style=for-the-badge" alt="coder_utkarsh" /></a> </p>
 
