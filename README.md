@@ -27,9 +27,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/utkarsh1311/wordle-clone/issues/3) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-2. ❗️ Closed issue [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-3. 🗣 Commented on [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-4. 🗣 Commented on [#2](https://github.com/utkarsh1311/wordle-clone/issues/2) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-5. 🎉 Merged PR [#2](https://github.com/utkarsh1311/wordle-clone/pull/2) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+1. 🗣 Commented on [#3](https://github.com/utkarsh1311/wordle-clone/issues/3) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+2. ❗️ Opened issue [#3](https://github.com/utkarsh1311/wordle-clone/issues/3) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+3. ❗️ Closed issue [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+4. 🗣 Commented on [#1](https://github.com/utkarsh1311/wordle-clone/issues/1) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+5. 🗣 Commented on [#2](https://github.com/utkarsh1311/wordle-clone/issues/2) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
 <!--END_SECTION:activity-->
