@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/coder_utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/coder_utkarsh?logo=twitter&style=for-the-badge" alt="coder_utkarsh" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarsh1311](https://github.com/utkarsh1311)
 
