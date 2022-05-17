@@ -27,9 +27,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
-2. ❗️ Closed issue [#3](https://github.com/utkarsh1311/wordle-clone/issues/3) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-3. 🎉 Merged PR [#4](https://github.com/utkarsh1311/wordle-clone/pull/4) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
-4. 🗣 Commented on [#4](https://github.com/utkarsh1311/wordle-clone/issues/4) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+1. ❗️ Opened issue [#3](https://github.com/Tanishka-dev/Weather-App-JS/issues/3) in [Tanishka-dev/Weather-App-JS](https://github.com/Tanishka-dev/Weather-App-JS)
+2. ❗️ Opened issue [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
+3. ❗️ Closed issue [#3](https://github.com/utkarsh1311/wordle-clone/issues/3) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+4. 🎉 Merged PR [#4](https://github.com/utkarsh1311/wordle-clone/pull/4) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
 5. 🗣 Commented on [#4](https://github.com/utkarsh1311/wordle-clone/issues/4) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
 <!--END_SECTION:activity-->
