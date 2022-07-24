@@ -1,6 +1,6 @@
 # About Me 👋
 
-<img align="right" src="https://github.com/utkarsh1311/Utkarsh1311/blob/master/img/NUX_Octodex.gif" width="200"/>
+<img align="right" src="./img/pngwing.com.png" width="300"/>
 
 Hi 👋, I am Utkarsh, a **Computer Science sophomore** 👨‍🎓 , currently learning **Full Stack Web development** 💻.</br>
 Apart from web dev, I am also enthusiastic about Open Source and technologies like **Web3**. 
