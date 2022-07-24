@@ -1,6 +1,6 @@
 # About Me 👋
 
-<img align="right" src="./img/pngwing.com.png" width="300"/>
+<img align="right" src="./img/pngwing.com (1).png" width="300"/>
 
 Hi 👋, I am Utkarsh, a **Computer Science sophomore** 👨‍🎓 , currently learning **Full Stack Web development** 💻.</br>
 Apart from web dev, I am also enthusiastic about Open Source and technologies like **Web3**. 
