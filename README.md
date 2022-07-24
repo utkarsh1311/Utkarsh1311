@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Maurya</h1>
-<h3 align="center">Aspiring Full Stack Web developer, Open source enthusiast and a hardcore anime weeb.</h3>
+# Introduction 👋
+
+<!--<img align="right" src="https://github.com/utkarsh1311/Utkarsh1311/blob/master/img/NUX_Octodex.gif" width="200"/>-->
+
+Hi 👋, I am Utkarsh, a **Computer Science sophomore** 👨‍🎓 , currently learning **Full Stack Web development** 💻.</br>
+Apart from web dev, I am also enthusiastic about Open Source and technologies like **Web3**. 
+I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1311&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 <p align="left"> <a href="https://twitter.com/coder_utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/coder_utkarsh?logo=twitter&style=for-the-badge" alt="coder_utkarsh" /></a> </p>
