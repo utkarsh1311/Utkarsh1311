@@ -6,9 +6,6 @@ Hi 👋, I am Utkarsh, a **Computer Science sophomore** 👨‍🎓 , currently 
 Apart from web dev, I am also enthusiastic about Open Source and technologies like **Web3**. 
 I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1311&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 <p align="left"> <a href="https://twitter.com/coder_utkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/coder_utkarsh?logo=twitter&style=for-the-badge" alt="coder_utkarsh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +23,7 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=utkarsh1311&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utkarsh1311&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1311&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
 <!--START_SECTION:activity-->
