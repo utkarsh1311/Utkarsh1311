@@ -1,4 +1,4 @@
-# Introduction 👋
+# About Me 👋
 
 <img align="right" src="https://github.com/utkarsh1311/Utkarsh1311/blob/master/img/NUX_Octodex.gif" width="200"/>
 
@@ -8,7 +8,8 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/itsutkarsh123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsutkarsh123" height="30" width="40" /></a>
+<a href="https://dev.to/utkarsh1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="utkarsh1311" height="30" width="40" /></a>
+<a href="https://iamutkarsh.hashnode.dev/" target="blank"><img align='center' src="https://img.icons8.com/color/48/000000/hashnode.png" width='40'/></a>
 <a href="https://twitter.com/coder_utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_utkarsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkarsh-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/iam.utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.utkarsh" height="30" width="40" /></a>
