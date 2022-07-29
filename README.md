@@ -27,9 +27,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
-2. 🗣 Commented on [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
-3. ❗️ Opened issue [#3](https://github.com/Tanishka-dev/Weather-App-JS/issues/3) in [Tanishka-dev/Weather-App-JS](https://github.com/Tanishka-dev/Weather-App-JS)
-4. ❗️ Opened issue [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
-5. 🎉 Merged PR [#4](https://github.com/utkarsh1311/wordle-clone/pull/4) in [utkarsh1311/wordle-clone](https://github.com/utkarsh1311/wordle-clone)
+1. 🗣 Commented on [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
+2. ❗️ Opened issue [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
+3. 🗣 Commented on [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
+4. ❗️ Opened issue [#3](https://github.com/Tanishka-dev/Weather-App-JS/issues/3) in [Tanishka-dev/Weather-App-JS](https://github.com/Tanishka-dev/Weather-App-JS)
+5. ❗️ Opened issue [#2010](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/2010) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 <!--END_SECTION:activity-->
