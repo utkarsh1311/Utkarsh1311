@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
-2. ❗️ Opened issue [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
-3. ❗️ Opened issue [#3](https://github.com/vladocar/flexy/issues/3) in [vladocar/flexy](https://github.com/vladocar/flexy)
-4. 🗣 Commented on [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
-5. ❗️ Opened issue [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
+1. 💪 Opened PR [#3](https://github.com/itsnitinr/nextjs-shopping-cart/pull/3) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
+2. 🗣 Commented on [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
+3. ❗️ Opened issue [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
+4. ❗️ Opened issue [#3](https://github.com/vladocar/flexy/issues/3) in [vladocar/flexy](https://github.com/vladocar/flexy)
+5. 🗣 Commented on [#2](https://github.com/AndrejJurkin/create-tw/issues/2) in [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw)
 <!--END_SECTION:activity-->
