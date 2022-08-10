@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/virag-ky/Weather-App/issues/3) in [virag-ky/Weather-App](https://github.com/virag-ky/Weather-App)
-2. 💪 Opened PR [#3](https://github.com/itsnitinr/nextjs-shopping-cart/pull/3) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
-3. 🗣 Commented on [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
-4. ❗️ Opened issue [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
-5. ❗️ Opened issue [#3](https://github.com/vladocar/flexy/issues/3) in [vladocar/flexy](https://github.com/vladocar/flexy)
+1. 🗣 Commented on [#3](https://github.com/virag-ky/Weather-App/issues/3) in [virag-ky/Weather-App](https://github.com/virag-ky/Weather-App)
+2. ❗️ Opened issue [#3](https://github.com/virag-ky/Weather-App/issues/3) in [virag-ky/Weather-App](https://github.com/virag-ky/Weather-App)
+3. 💪 Opened PR [#3](https://github.com/itsnitinr/nextjs-shopping-cart/pull/3) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
+4. 🗣 Commented on [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
+5. ❗️ Opened issue [#2](https://github.com/itsnitinr/nextjs-shopping-cart/issues/2) in [itsnitinr/nextjs-shopping-cart](https://github.com/itsnitinr/nextjs-shopping-cart)
 <!--END_SECTION:activity-->
