@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/AccessibleForAll/ColorPaletteCombos/issues/25) in [AccessibleForAll/ColorPaletteCombos](https://github.com/AccessibleForAll/ColorPaletteCombos)
-2. ❗️ Opened issue [#112](https://github.com/AccessibleForAll/Support/issues/112) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-3. 💪 Opened PR [#26](https://github.com/AccessibleForAll/ColorPaletteCombos/pull/26) in [AccessibleForAll/ColorPaletteCombos](https://github.com/AccessibleForAll/ColorPaletteCombos)
-4. 🗣 Commented on [#3](https://github.com/virag-ky/Weather-App/issues/3) in [virag-ky/Weather-App](https://github.com/virag-ky/Weather-App)
-5. 🗣 Commented on [#3](https://github.com/virag-ky/Weather-App/issues/3) in [virag-ky/Weather-App](https://github.com/virag-ky/Weather-App)
+1. 🎉 Merged PR [#1](https://github.com/utkarsh1311/interactive-card-component/pull/1) in [utkarsh1311/interactive-card-component](https://github.com/utkarsh1311/interactive-card-component)
+2. 💪 Opened PR [#1](https://github.com/utkarsh1311/interactive-card-component/pull/1) in [utkarsh1311/interactive-card-component](https://github.com/utkarsh1311/interactive-card-component)
+3. 🗣 Commented on [#25](https://github.com/AccessibleForAll/ColorPaletteCombos/issues/25) in [AccessibleForAll/ColorPaletteCombos](https://github.com/AccessibleForAll/ColorPaletteCombos)
+4. ❗️ Opened issue [#112](https://github.com/AccessibleForAll/Support/issues/112) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+5. 💪 Opened PR [#26](https://github.com/AccessibleForAll/ColorPaletteCombos/pull/26) in [AccessibleForAll/ColorPaletteCombos](https://github.com/AccessibleForAll/ColorPaletteCombos)
 <!--END_SECTION:activity-->
