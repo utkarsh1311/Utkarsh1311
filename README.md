@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/utkarsh1311/interactive-card-component/issues/2) in [utkarsh1311/interactive-card-component](https://github.com/utkarsh1311/interactive-card-component)
-2. 🎉 Merged PR [#1](https://github.com/utkarsh1311/interactive-card-component/pull/1) in [utkarsh1311/interactive-card-component](https://github.com/utkarsh1311/interactive-card-component)
-3. 💪 Opened PR [#1](https://github.com/utkarsh1311/interactive-card-component/pull/1) in [utkarsh1311/interactive-card-component](https://github.com/utkarsh1311/interactive-card-component)
-4. 🗣 Commented on [#25](https://github.com/AccessibleForAll/ColorPaletteCombos/issues/25) in [AccessibleForAll/ColorPaletteCombos](https://github.com/AccessibleForAll/ColorPaletteCombos)
-5. ❗️ Opened issue [#112](https://github.com/AccessibleForAll/Support/issues/112) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+1. ❗️ Opened issue [#6](https://github.com/utkarsh1311/greet-action-test/issues/6) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+2. ❗️ Opened issue [#5](https://github.com/utkarsh1311/greet-action-test/issues/5) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+3. ❗️ Opened issue [#4](https://github.com/utkarsh1311/greet-action-test/issues/4) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+4. ❗️ Opened issue [#3](https://github.com/utkarsh1311/greet-action-test/issues/3) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+5. ❗️ Opened issue [#2](https://github.com/utkarsh1311/greet-action-test/issues/2) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
 <!--END_SECTION:activity-->
