@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#192](https://github.com/monizb/hacktoberfest-swag-list/pull/192) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
-2. ❗️ Opened issue [#191](https://github.com/monizb/hacktoberfest-swag-list/issues/191) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
-3. ❗️ Opened issue [#6](https://github.com/utkarsh1311/greet-action-test/issues/6) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
-4. ❗️ Opened issue [#5](https://github.com/utkarsh1311/greet-action-test/issues/5) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
-5. ❗️ Opened issue [#4](https://github.com/utkarsh1311/greet-action-test/issues/4) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+1. 🗣 Commented on [#796](https://github.com/dequelabs/cauldron/issues/796) in [dequelabs/cauldron](https://github.com/dequelabs/cauldron)
+2. 💪 Opened PR [#192](https://github.com/monizb/hacktoberfest-swag-list/pull/192) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
+3. ❗️ Opened issue [#191](https://github.com/monizb/hacktoberfest-swag-list/issues/191) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
+4. ❗️ Opened issue [#6](https://github.com/utkarsh1311/greet-action-test/issues/6) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
+5. ❗️ Opened issue [#5](https://github.com/utkarsh1311/greet-action-test/issues/5) in [utkarsh1311/greet-action-test](https://github.com/utkarsh1311/greet-action-test)
 <!--END_SECTION:activity-->
