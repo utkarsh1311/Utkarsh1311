@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/VG-1/PlaylistAdda/issues/73) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-2. ❗️ Opened issue [#78](https://github.com/VG-1/PlaylistAdda/issues/78) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-3. 🗣 Commented on [#796](https://github.com/dequelabs/cauldron/issues/796) in [dequelabs/cauldron](https://github.com/dequelabs/cauldron)
-4. 💪 Opened PR [#192](https://github.com/monizb/hacktoberfest-swag-list/pull/192) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
-5. ❗️ Opened issue [#191](https://github.com/monizb/hacktoberfest-swag-list/issues/191) in [monizb/hacktoberfest-swag-list](https://github.com/monizb/hacktoberfest-swag-list)
+1. 💪 Opened PR [#90](https://github.com/AccessibleForAll/AccessibleWebDev/pull/90) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+2. 🗣 Commented on [#89](https://github.com/AccessibleForAll/AccessibleWebDev/issues/89) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 🗣 Commented on [#73](https://github.com/VG-1/PlaylistAdda/issues/73) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
+4. ❗️ Opened issue [#78](https://github.com/VG-1/PlaylistAdda/issues/78) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
+5. 🗣 Commented on [#796](https://github.com/dequelabs/cauldron/issues/796) in [dequelabs/cauldron](https://github.com/dequelabs/cauldron)
 <!--END_SECTION:activity-->
