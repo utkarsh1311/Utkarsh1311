@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/AccessibleForAll/AccessibleWebDev/pull/90) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-2. 🗣 Commented on [#89](https://github.com/AccessibleForAll/AccessibleWebDev/issues/89) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-3. 🗣 Commented on [#73](https://github.com/VG-1/PlaylistAdda/issues/73) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-4. ❗️ Opened issue [#78](https://github.com/VG-1/PlaylistAdda/issues/78) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-5. 🗣 Commented on [#796](https://github.com/dequelabs/cauldron/issues/796) in [dequelabs/cauldron](https://github.com/dequelabs/cauldron)
+1. ❗️ Opened issue [#1](https://github.com/utkarsh1311/weather-app/issues/1) in [utkarsh1311/weather-app](https://github.com/utkarsh1311/weather-app)
+2. 🗣 Commented on [#106](https://github.com/AccessibleForAll/AccessibleWebDev/issues/106) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 💪 Opened PR [#90](https://github.com/AccessibleForAll/AccessibleWebDev/pull/90) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+4. 🗣 Commented on [#89](https://github.com/AccessibleForAll/AccessibleWebDev/issues/89) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+5. 🗣 Commented on [#73](https://github.com/VG-1/PlaylistAdda/issues/73) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
 <!--END_SECTION:activity-->
