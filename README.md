@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/YurisCodingClub/dev-cv/issues/5) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-2. 🗣 Commented on [#2](https://github.com/utkarsh1311/weather-app/issues/2) in [utkarsh1311/weather-app](https://github.com/utkarsh1311/weather-app)
-3. ❗️ Opened issue [#84](https://github.com/VG-1/PlaylistAdda/issues/84) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-4. 💪 Opened PR [#120](https://github.com/AccessibleForAll/AccessibleWebDev/pull/120) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-5. 🗣 Commented on [#1](https://github.com/utkarsh1311/weather-app/issues/1) in [utkarsh1311/weather-app](https://github.com/utkarsh1311/weather-app)
+1. 🗣 Commented on [#78](https://github.com/VG-1/PlaylistAdda/issues/78) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
+2. 🗣 Commented on [#5](https://github.com/YurisCodingClub/dev-cv/issues/5) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+3. 🗣 Commented on [#2](https://github.com/utkarsh1311/weather-app/issues/2) in [utkarsh1311/weather-app](https://github.com/utkarsh1311/weather-app)
+4. ❗️ Opened issue [#84](https://github.com/VG-1/PlaylistAdda/issues/84) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
+5. 💪 Opened PR [#120](https://github.com/AccessibleForAll/AccessibleWebDev/pull/120) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
 <!--END_SECTION:activity-->
