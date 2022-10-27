@@ -47,9 +47,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/YurisCodingClub/dev-cv/pull/36) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-2. 🗣 Commented on [#34](https://github.com/YurisCodingClub/dev-cv/issues/34) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-3. 💪 Opened PR [#52](https://github.com/ArjunSharda/TimeConv/pull/52) in [ArjunSharda/TimeConv](https://github.com/ArjunSharda/TimeConv)
-4. 🗣 Commented on [#78](https://github.com/VG-1/PlaylistAdda/issues/78) in [VG-1/PlaylistAdda](https://github.com/VG-1/PlaylistAdda)
-5. 🗣 Commented on [#5](https://github.com/YurisCodingClub/dev-cv/issues/5) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+1. ❗️ Opened issue [#42](https://github.com/YurisCodingClub/dev-cv/issues/42) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+2. 💪 Opened PR [#41](https://github.com/YurisCodingClub/dev-cv/pull/41) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+3. 💪 Opened PR [#36](https://github.com/YurisCodingClub/dev-cv/pull/36) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+4. 🗣 Commented on [#34](https://github.com/YurisCodingClub/dev-cv/issues/34) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+5. 💪 Opened PR [#52](https://github.com/ArjunSharda/TimeConv/pull/52) in [ArjunSharda/TimeConv](https://github.com/ArjunSharda/TimeConv)
 <!--END_SECTION:activity-->
