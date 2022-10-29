@@ -48,9 +48,9 @@ I like to write ✍️ blogs about my learnings and I am a hardcore anime weeb.
 
 ### Recect activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/YurisCodingClub/dev-cv/issues/42) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-2. 💪 Opened PR [#41](https://github.com/YurisCodingClub/dev-cv/pull/41) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-3. 💪 Opened PR [#36](https://github.com/YurisCodingClub/dev-cv/pull/36) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-4. 🗣 Commented on [#34](https://github.com/YurisCodingClub/dev-cv/issues/34) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
-5. 💪 Opened PR [#52](https://github.com/ArjunSharda/TimeConv/pull/52) in [ArjunSharda/TimeConv](https://github.com/ArjunSharda/TimeConv)
+1. 🗣 Commented on [#1](https://github.com/utkarsh1311/weather-app/issues/1) in [utkarsh1311/weather-app](https://github.com/utkarsh1311/weather-app)
+2. ❗️ Opened issue [#42](https://github.com/YurisCodingClub/dev-cv/issues/42) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+3. 💪 Opened PR [#41](https://github.com/YurisCodingClub/dev-cv/pull/41) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+4. 💪 Opened PR [#36](https://github.com/YurisCodingClub/dev-cv/pull/36) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
+5. 🗣 Commented on [#34](https://github.com/YurisCodingClub/dev-cv/issues/34) in [YurisCodingClub/dev-cv](https://github.com/YurisCodingClub/dev-cv)
 <!--END_SECTION:activity-->
