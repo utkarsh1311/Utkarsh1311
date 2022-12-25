@@ -51,8 +51,10 @@ Hi 👋, I am Utkarsh, a **Computer Science sophomore** 👨‍🎓 , currently 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utkarsh1311&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1311&theme=gruvbox&hide_border=true)<br/>
+|![](https://github-readme-stats.vercel.app/api?username=utkarsh1311&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)| ![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1311&theme=gruvbox&hide_border=true)|
+|---|---|
+
+
 
 ---
 
